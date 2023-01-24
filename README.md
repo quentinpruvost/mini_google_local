@@ -11,11 +11,17 @@ Ajout de nouveaux sites web à la base de données en remplissant un formulaire
 Utilisation:
 
 Téléchargez ou clonez le dépôt sur votre ordinateur.
+
 Ouvrez le fichier index.html dans votre navigateur web.
+
 Saisissez une requête de recherche dans la barre de recherche.
+
 Les résultats de recherche correspondants s'affichent sous forme de liens cliquables.
+
 Pour ajouter un nouveau site web à la base de données, cliquez sur le bouton "Ajouter un site" et remplissez le formulaire.
+
 Technologies utilisées
+
 HTML pour la structure de la page
 CSS pour la mise en forme de la page
 JavaScript pour la logique de l'application et l'interaction avec l'utilisateur
