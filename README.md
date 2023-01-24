@@ -20,6 +20,7 @@ Les résultats de recherche correspondants s'affichent sous forme de liens cliqu
 
 Pour ajouter un nouveau site web à la base de données, cliquez sur le bouton "Ajouter un site" et remplissez le formulaire.
 
+
 Technologies utilisées:
 
 HTML pour la structure de la page
@@ -29,6 +30,7 @@ CSS pour la mise en forme de la page
 JavaScript pour la logique de l'application et l'interaction avec l'utilisateur
 
 AJAX pour la communication en temps réel avec le script PHP et la mise à jour de la page sans rechargement
+
 
 Remarques:
 
