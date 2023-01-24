@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Moteur de recherche</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="logo"></div>
+    <div class="search-input">
+        <input type="text" id="search-query" name="search" placeholder="Entrez votre recherche">
+
+        <div class="buttons">
+            <center>
+                <input type="submit" name="googlesearch" value="Recherche google" onclick="search()">
+                <input type="submit" name="imlucky" value="Ajouter des donnees" onclick="toggleAddForm()">
+            </center>
+        </div>
+        <form id="add-form">
+            <input type="text" id="add-title" placeholder="Entrez le titre">
+            <br>
+            <input type="text" id="add-description" placeholder="Entrez la description">
+            <br>
+            <input type="text" id="add-link" placeholder="Entrez le lien">
+            <br><br>
+            <input class="buttons" type="button" value="Ajouter" onclick="addData()">
+        </form>
+        <div id="search-results"></div>
+    </div>
+    <div class="footer">
+        <div class="country">
+            France
+        </div>
+        <ul class="left">
+            <li><a href="#advertising">Advertising</a></li>
+            <li><a href="#business">Business</a></li>
+            <li><a href="#about">About</a></li>
+
+            <li><a href="#privacy" class="right">Privacy</a></li>
+            <li><a href="#terms" class="right">Terms</a></li>
+            <li><a href="#settings" class="right">Settings</a></li>
+        </ul>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+Bing|moteur de recherche|https://www.bing.com/
+Yahoo|moteur de recherche|https://www.yahoo.com/
+DuckDuckGo|moteur de recherche|https://duckduckgo.com/
+Baidu|moteur de recherche|https://www.baidu.com/
+Yandex|moteur de recherche|https://www.yandex.com/
+Ask|moteur de recherche|https://www.ask.com/
+WolframAlpha|moteur de recherche|https://www.wolframalpha.com/
+StartPage|moteur de recherche|https://www.startpage.com/
+Facebook|réseau social|https://www.facebook.com/
+Twitter|réseau social|https://twitter.com/
+Instagram|réseau social|https://www.instagram.com/
+YouTube|plateforme de vidéo|https://www.youtube.com/
+Amazon|e-commerce|https://www.amazon.com/
+Ebay|e-commerce|https://www.ebay.com/
+Netflix|plateforme de streaming|https://www.netflix.com/
+Spotify|plateforme de streaming musical|https://www.spotify.com/
+Wikipedia|encyclopédie en ligne|https://fr.wikipedia.org/
+LinkedIn|réseau professionnel|https://www.linkedin.com/
+Github|plateforme de développement|https://github.com/
+Stack Overflow|plateforme de questions-réponses pour les développeurs|https://stackoverflow.com/
+TripAdvisor|plateforme de voyage|https://www.tripadvisor.com/
+Booking|plateforme de réservation de voyage|https://www.booking.com/
+Airbnb|plateforme de location de logements|https://www.airbnb.com/
+Expedia|plateforme de voyage|https://www.expedia.com/
+Uber|application de transport|https://www.uber.com/
+Deliveroo|plateforme de livraison de nourriture|https://deliveroo.fr/
+JustEat|plateforme de commande de nourriture|https://www.just-eat.fr/
+Zalando|e-commerce de mode|https://www.zalando.fr/
+Asos|e-commerce de mode|https://www.asos.com/fr/
+Alibaba|e-commerce en ligne|https://www.alibaba.com/
+WordPress|plateforme de création de sites web|https://wordpress.com/
+Wix|plateforme de création de sites web|https://www.wix.com/
+Squarespace|plateforme de création de sites web|https://www.squarespace.com/
+Shopify|plateforme de création de boutiques en ligne|https://www.shopify.com/
+Weebly|plateforme de création de sites web|https://www.weebly.com/
+Google|moteur de recherche|https://www.google.com/
+Medium|plateforme de blogging|https://medium.com/
+Blogspot|plateforme de blogging|https://www.blogger.com/
+Typeform|outil de création de formulaires|https://www.typeform.com/
+Canva|outil de design graphique|https://www.canva.com/
+Slack|plateforme de communication pour les équipes|https://slack.com/
+Trello|outil de gestion de projet|https://trello.com/
+Dropbox|plateforme de stockage en ligne|https://www.dropbox.com/
+Google Drive|plateforme de stockage en ligne|https://www.drive.google.com/
+OneDrive|plateforme de stockage en ligne|https://onedrive.live.com/
+Reddit|plateforme de discussion en ligne|https://www.reddit.com/
+Quora|plateforme de questions-réponses|https://www.quora.com/
+Stack Exchange|plateforme de questions-réponses pour les développeurs|https://stackexchange.com/
+Pinterest|plateforme de découverte de contenu|https://www.pinterest.com/
+Imgur|plateforme de partage d'images|https://imgur.com/
+9gag|plateforme de découverte de contenu|https://9gag.com/
+Flickr|plateforme de partage de photos|https://www.flickr.com/
+Vimeo|plateforme de partage de vidéos|https://vimeo.com/
+SoundCloud|plateforme de partage de musique|https://soundcloud.com/
+Bandcamp|plateforme de vente de musique en ligne|https://www.bandcamp.com/
+DeviantArt|plateforme de partage d'art en ligne|https://www.deviantart.com/
+ArtStation|plateforme de découverte d'artistes|https://www.artstation.com/
+mabimbo|jeux de fille, gre ta bimbo comme tu le souhaite|https://www.ma-bimbo.com/
+
